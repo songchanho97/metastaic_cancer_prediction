@@ -1,0 +1,11 @@
+# 데이터셋 제외
+dataset/
+
+# Jupyter 관련 
+*.ipynb_checkpoints/
+
+# 가상환경 제외
+myenv/
+
+# Python 가상환경 제외
+venv/
