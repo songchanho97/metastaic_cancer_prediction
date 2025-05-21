@@ -10,4 +10,6 @@ myenv/
 # Python 가상환경 제외
 venv/
 
-final_prediction.csv
+final_predictions.csv
+
+Makefile
